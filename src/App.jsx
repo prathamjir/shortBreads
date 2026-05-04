@@ -615,7 +615,7 @@ export default function App() {
         <div className="page">
           <div className="hero">
             <div className="hero-tag">Homemade with love ✦ Made to order</div>
-            <h1 className="hero-title">Artisan Bakes<br /><em>by Mrigaya</em></h1>
+            <h1 className="hero-title">ShortBreads<br /><em>by Mrigaya</em></h1>
             <p className="hero-sub">Cakes · Cheesecakes · Cookies · Chocolates · Pastries</p>
             <div className="hero-btns">
               <button className="btn-p" onClick={() => navTo("menu")}>Browse Menu</button>
